@@ -2,8 +2,8 @@
 layout: home
 ---
 
-# Dem gifs tho
+# Giiiiiiffffffssss
 
-Oh Hai! You've found my Gif collection.
+✨✨✨✨✨
 
-Fork me on GitHub at [jglovier/gifs](https://github.com/jglovier/gifs)
+Fork the original on GitHub at [jglovier/gifs](https://github.com/jglovier/gifs)
