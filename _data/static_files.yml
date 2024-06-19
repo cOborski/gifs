@@ -1,37 +1,37 @@
 ---
-- path: gifs-test/catz-bluey.gif
+- path: Catz/catz-bluey.gif
   modified_time: 1718485274
   extname: ".gif"
-- path: gifs-test/neo-geo.gif
-  modified_time: 1718488291
-  extname: ".gif"
-- path: gifs-test/neocities-netscape.gif
-  modified_time: 1701560431
-  extname: ".gif"
-- path: gifs-test/neocities.gif
-  modified_time: 1718401950
-  extname: ".gif"
-- path: gifs-test/neocities_vaporwave.gif
-  modified_time: 1702774364
-  extname: ".gif"
-- path: gifs-test/notepad.gif
-  modified_time: 1718488131
-  extname: ".gif"
-- path: gifs-test/rave-now.gif
+- path: Dancing 88x31/rave-now.gif
   modified_time: 1718484491
   extname: ".gif"
-- path: gifs-test/sharing-is-caring.gif
-  modified_time: 1718488243
+- path: Neocities 88x31/neo-geo.gif
+  modified_time: 1718488291
   extname: ".gif"
-- path: gifs-test/view-source.gif
-  modified_time: 1718762282
+- path: Neocities 88x31/neocities-netscape.gif
+  modified_time: 1701560431
   extname: ".gif"
-- path: gifs-test/winamp.gif
-  modified_time: 1718602037
+- path: Neocities 88x31/neocities.gif
+  modified_time: 1718401950
   extname: ".gif"
-- path: gifs-test/windows96.gif
+- path: Neocities 88x31/neocities_vaporwave.gif
+  modified_time: 1702774364
+  extname: ".gif"
+- path: Operating Systems 88x31/windows96-bright-green.gif
   modified_time: 1718487597
   extname: ".gif"
-- path: gifs-test/yeehaw.gif
+- path: Software 150x20/view-source.gif
+  modified_time: 1718762282
+  extname: ".gif"
+- path: Software 88x31/notepad.gif
+  modified_time: 1718488131
+  extname: ".gif"
+- path: Software 88x31/winamp.gif
+  modified_time: 1718602037
+  extname: ".gif"
+- path: Torrenting 88x31/sharing-is-caring.gif
+  modified_time: 1718488243
+  extname: ".gif"
+- path: Western 150x20/yeehaw.gif
   modified_time: 1718746689
   extname: ".gif"
